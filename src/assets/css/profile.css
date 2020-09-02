@@ -1,0 +1,69 @@
+.login {
+    width: 100%;
+    height: 135px;
+    padding-top: 8px;
+    background-color: #ff8e96;
+    color: #fff;
+}
+.login h3 {
+    margin: 5px auto 15px;
+    line-height: 20px;
+    text-align: center;
+    font-weight: normal;
+}
+.login img {
+    width: 65px;
+    height: 65px;
+    margin-top: 10px;
+
+}
+.login .left{
+    float: left;
+    margin-left: 10px;
+}
+.login .center {
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: left;
+}
+.login .center img {
+    width: 15px;
+    height: 15px;
+    vertical-align: bottom;
+}
+.login .right {
+    float: right;
+    margin-top: 30px;
+    text-align: center;
+}
+.banner {
+    display: flex;
+    border-bottom: 10px solid #eeeeee;
+    padding: 10px 0;
+}
+.banner span {
+    flex: 1;
+    line-height: 25px;
+    text-align: center;
+}
+.banner span i {
+    font-style: normal;
+    font-size: 20px;
+    color: red;
+}
+.message img {
+    width: 20px;
+    height: 20px;
+    margin-right: 3px;
+    vertical-align: middle;
+
+}
+.message ul li {
+    padding-left: 20px;
+    list-style: none;
+    height:35px;
+    font-size: 14px;
+    line-height: 35px;
+    border-bottom: 1px solid #eeeeee;
+}
